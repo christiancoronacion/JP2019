@@ -18,7 +18,7 @@
 
     End Function
     Public Sub Creditos()
-        Dim msg = "Infodata"
+        Dim msg = "Infodata S.A"
         MsgBox(msg)
     End Sub
 End Class

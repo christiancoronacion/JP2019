@@ -10,3 +10,15 @@ C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\WinClase01\WinClase01\obj\Debug\W
 C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\WinClase01\WinClase01\obj\Debug\WinClase01.exe
 C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\WinClase01\WinClase01\obj\Debug\WinClase01.xml
 C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\WinClase01\WinClase01\obj\Debug\WinClase01.pdb
+C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\Clase01\WinClase01\WinClase01\bin\Debug\WinClase01.exe.config
+C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\Clase01\WinClase01\WinClase01\bin\Debug\WinClase01.exe
+C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\Clase01\WinClase01\WinClase01\bin\Debug\WinClase01.pdb
+C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\Clase01\WinClase01\WinClase01\bin\Debug\WinClase01.xml
+C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\Clase01\WinClase01\WinClase01\obj\Debug\WinClase02.vbprojAssemblyReference.cache
+C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\Clase01\WinClase01\WinClase01\obj\Debug\WinClase01.Form1.resources
+C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\Clase01\WinClase01\WinClase01\obj\Debug\WinClase01.Resources.resources
+C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\Clase01\WinClase01\WinClase01\obj\Debug\WinClase02.vbproj.GenerateResource.cache
+C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\Clase01\WinClase01\WinClase01\obj\Debug\WinClase02.vbproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\Clase01\WinClase01\WinClase01\obj\Debug\WinClase01.exe
+C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\Clase01\WinClase01\WinClase01\obj\Debug\WinClase01.xml
+C:\Users\chris\Desktop\ProgramasGit\hds.vs.net\Clase01\WinClase01\WinClase01\obj\Debug\WinClase01.pdb
